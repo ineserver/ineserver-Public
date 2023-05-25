@@ -10,3 +10,6 @@
 
 ### 進捗を見る
 上部のバー「[Projects](https://github.com/Ine0056/ineserver-Public/projects?query=is%3Aopen)」の「[ineserver Todo](https://github.com/users/Ine0056/projects/2/views/1)」にTodoリストが存在します．リスト，ボード，タイムライン表示を選択できます．
+
+### 資料・ドキュメントを見る
+ホームページに記載されていないような情報（処罰基準・有料サービスなど）や，各種委員の方が使用するプラグインの使い方のページは[Wiki](https://github.com/Ine0056/ineserver-Public/wiki)にあります．
